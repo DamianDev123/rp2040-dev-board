@@ -22,8 +22,10 @@ A simple RP2040 development board designed to help me learn PCB design and gain 
 ## Project Structure
 
 ```
-PCB/        - KiCad project files
-Renders/    - PCB renders
+PCB/         - KiCad project files
+Renders/     - PCB renders
+Fabrication/ - Final Stuff
+CAD/         - Just an export of the PCB
 ```
 
 ## Goals
