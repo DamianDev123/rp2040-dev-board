@@ -490,7 +490,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "rp2040 dev board.step",
       "svg": "",
       "vrml": ""
     },
